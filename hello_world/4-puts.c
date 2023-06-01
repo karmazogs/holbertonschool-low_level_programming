@@ -1,6 +1,8 @@
 #include <stdio.h>
 /**
- * commententnentnent 
+ * main - Entry pint
+ *
+ * Return: Always 0 (Success)
  */
 
 int main(void)
