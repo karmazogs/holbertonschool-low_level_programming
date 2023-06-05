@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/*
+/**
  * main - prinst nummbers
  * Return: 0
  */
